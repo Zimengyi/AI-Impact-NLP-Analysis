@@ -1,0 +1,16 @@
+﻿pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pyarrow
+tqdm
+spacy
+bertopic
+sentence-transformers
+transformers
+datasets
+evaluate
+accelerate
+torch
+plotly

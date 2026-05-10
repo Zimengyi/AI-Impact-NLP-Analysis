@@ -1,0 +1,11 @@
+﻿data/
+models/
+outputs/
+*.parquet
+*.csv
+*.pkl
+*.pt
+*.bin
+__pycache__/
+.ipynb_checkpoints/
+.env
